@@ -1,0 +1,42 @@
+/* title text */
+.fc-event-title{
+    color: #006eff !important;
+   
+    font-size: 13px !important;
+}
+
+.modal-title{
+    color: white !important;
+}
+
+.modal-header{
+    background: blue !important;
+}
+
+.close{
+    color: white !important;
+}
+
+#calendar {
+ max-width: 1100px;
+ margin: 0 auto;
+ padding-top:20px;
+ padding-bottom:20px;
+ padding-left:15px;
+ padding-right:15px;
+ 
+}
+
+.swal2-container {
+z-index: 999999999999 !important;
+}
+
+.fc-day-sun { 
+    color:#337ab7;  
+    border-color: black;  
+    background-color: #f3f3f3; }
+
+.fc-day-sat { 
+    color:#337ab7;  
+    border-color: black;  
+    background-color: #f3f3f3; }
